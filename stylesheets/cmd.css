@@ -1,0 +1,14 @@
+
+.cmd { }
+
+.cmdType {  font-size: 10pt;  font-weight: bold;  text-align: center;  color: red; }
+
+.commandDescription {   text-align: center;  background-color: #2D2D2F;  padding: 5px; }
+.descriptionTitle {  font-size: 10pt;  text-align: center;  font-weight: bold; }
+
+.optBox {   text-align: left;  padding: 5px;  background-color: #3A393A; }
+.optBoxTitle {  font-size: 10pt;  text-align: center;  font-weight: bold; }
+.optBoxItem {  font-size: 10pt;  text-align: left;  background-color: #3A393A; }
+.optBoxRequiredItem {  font-size: 10pt;  text-align: left;  color: red;  background-color: #3A393A; }
+
+
